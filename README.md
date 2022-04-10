@@ -1,19 +1,30 @@
 # Altay's TIL Table of Contents
 
-1. Python
-1. Data Science and Machine Learning
-    1. Data Engineering
-    1. MLOps
-    1. [Reinforcement Learning](#reinforcement-learning)
-1. sadfasdf
+## Cloud Computing
+1. [Google Cloud Storage Performance](./Cloud%20Computing/gcs_performance.md)
 
-## Python
+<a href="#top">Back to top</a>
 
-## Data Science and Machine Learning
-<details>
-  <summary>Reinforcement Learning</summary>
-  
-  ### Reinforcement Learning
-  1. OpenAI Gym
-  2. Keras-RL
-</details>
+## Data Science
+
+1. [Data Engineering](/Data%20Science/Data%20Engineering/)
+1. [MLOps](/Data%20Science/MLOps/) - ML + DevOps
+1. [Neural Networks](/Data%20Science/Neural%20Networks/)
+    * [Does Weight Initialization Matter?](/Data%20Science/Neural%20Networks/does_weight_init_matter.md)
+1. [Reinforcement Learning](/Data%20Science/Reinforcement%20Learning/)
+    * [Keras-RL](/Data%20Science/Reinforcement%20Learning/keras-rl.md)
+    * [OpenAI Gym](/Data%20Science/Reinforcement%20Learning/openai_gym.md)
+1. [Statistical Learning](/Data%20Science/Statistical%20Learning/)
+    * [Anomaly Detection 101](/Data%20Science/Statistical%20Learning/anomaly_detection_101.md)
+    * [SVM Kernel Trick](/Data%20Science/Statistical%20Learning/svm_kernel_trick.md)
+
+<a href="#top">Back to top</a>
+
+## Software Engineering 
+
+1. [Object-Oriented Programming](./Software%20Engineering/Object-Oriented%20Programming/)
+    * [Use Composition](./Software%20Engineering/Object-Oriented%20Programming/use_composition.md)
+2. [Python](./Software%20Engineering/Python/)
+    * [Dataclasses](./Software%20Engineering/Python/dataclasses.md)
+
+<a href="#top">Back to top</a>
