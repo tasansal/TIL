@@ -14,7 +14,8 @@ Docs: [New](https://www.gymlibrary.ml/), [Old](https://gym.openai.com/docs/)
   * Custom physics engine
   * Custom engine
 * Can use [Pygame](https://github.com/pygame/pygame) for nice visualiation and demos.
-* [Tiled](https://www.mapeditor.org/) is a cool tool to make 2D game assests with tiles.
+* [Tiled](https://www.mapeditor.org/) is a cool tool to make 2D game assests (i.e. map) with tiles.
+* Tiled maps can be parsed in python with [pytiled_parser](https://github.com/pythonarcade/pytiled_parser)
 
 ### Useful Links:
 [RL From Scratch](https://www.learndatasci.com/tutorials/reinforcement-q-learning-scratch-python-openai-gym/)  
