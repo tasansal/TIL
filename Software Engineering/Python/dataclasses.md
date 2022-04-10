@@ -9,6 +9,7 @@ Docs: [Python](https://docs.python.org/3/library/dataclasses.html)
 * Some of the methods like `__init__`, `__repr__`, and `__eq__` are pre-populated for you.
 * You can still do things after initialization using `def __post_init__(self, ...):`
 * Convenience properties/methods like: `fields`, `asdict`, `astuple`, `make_dataclass`, and `is_dataclass`.
+* You can have defaults even if its another class (think of composition). Use `dataclasses.field`
 * Still supports granular control.
 * Still supports proper inheritance (Python >= 3.10). However, it is tricky, see [#2](#2-python-dataclass-inheritance-finally)
 
