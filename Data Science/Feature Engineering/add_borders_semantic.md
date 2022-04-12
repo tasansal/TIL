@@ -1,7 +1,7 @@
 # Add Borders for Semantic Segmentation
 
 ## Summary
-If you want to add borders to your segmentation masks, you can achieve instance segmentation by post-processing the predictions using Watershed Transformation method (see [#5](#5-image-segmentation-and-mathemetical-morphology)).
+If you want to achieve instance segmentation, you can add borders to your binary segmentation masks, then post-process the predictions using Watershed Transformation method (see [#5](#5-image-segmentation-and-mathemetical-morphology)).
 
 Once you convert your binary mask to a mask with borders, your segmentation becomes multi-class. This means you'll have to modify your model to be a multi-class segmentation model. Usually this is as simple as using a `softmax` activation in the final layer, and modifying your loss function to something like `CategoricalCrossentropy` (one-hot) or `SparseCategoricalCrossentropy` (integer labels).
 
