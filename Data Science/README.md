@@ -4,6 +4,9 @@ Modern and Classical Data Science
 
 1. [Data Engineering](./Data%20Engineering/)
 
+1. [Feature Engineering](./Feature%20Engineering/)
+    * [Add Borders for Semantic Segmentation](./Feature%20Engineering/add_borders_semantic.md)
+    
 1. [MLOps](./MLOps/) - ML + DevOps
 
 1. [Neural Networks](./Neural%20Networks/)

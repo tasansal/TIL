@@ -8,6 +8,8 @@
 ## Data Science
 
 1. [Data Engineering](/Data%20Science/Data%20Engineering/)
+1. [Feature Engineering](/Data%20Science/Feature%20Engineering/)
+    * [Add Borders for Semantic Segmentation](/Data%20Science/Feature%20Engineering/add_borders_semantic.md)
 1. [MLOps](/Data%20Science/MLOps/) - ML + DevOps
 1. [Neural Networks](/Data%20Science/Neural%20Networks/)
     * [Does Weight Initialization Matter?](/Data%20Science/Neural%20Networks/does_weight_init_matter.md)
