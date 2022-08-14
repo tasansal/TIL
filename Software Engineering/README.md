@@ -2,7 +2,8 @@
 
 Anything programming and software engineering
 
-1. [Object-Oriented Programming](./Object-Oriented%20Programming/)
+1. [Common Git Patterns](./git.md)
+2. [Object-Oriented Programming](./Object-Oriented%20Programming/)
     * [Use Composition](./Object-Oriented%20Programming/use_composition.md)
-2. [Python](./Python/)
+3. [Python](./Python/)
     * [Dataclasses](./Python/dataclasses.md)

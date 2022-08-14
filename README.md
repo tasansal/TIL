@@ -24,9 +24,10 @@
 
 ## Software Engineering 
 
-1. [Object-Oriented Programming](./Software%20Engineering/Object-Oriented%20Programming/)
+1. [Common Git Patterns](./Software%20Engineering/git.md)
+2. [Object-Oriented Programming](./Software%20Engineering/Object-Oriented%20Programming/)
     * [Use Composition](./Software%20Engineering/Object-Oriented%20Programming/use_composition.md)
-2. [Python](./Software%20Engineering/Python/)
+3. [Python](./Software%20Engineering/Python/)
     * [Dataclasses](./Software%20Engineering/Python/dataclasses.md)
 
 <a href="#top">Back to top</a>
