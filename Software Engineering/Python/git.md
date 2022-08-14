@@ -2,8 +2,6 @@
 
 Common Git CLI patterns will be described here. This not only includes `Git` itself, and it also includes the GitHub CLI.
 
-[[TOC]]
-
 Git: [Link](https://git-scm.com)  
 GitHub CLI: [Link](https://cli.github.com)
 
